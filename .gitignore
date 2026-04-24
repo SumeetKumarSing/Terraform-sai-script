@@ -4,3 +4,4 @@ crash.log
 .terraform/
 .terraform.lock.hcl
 Module_All_Resources
+test_ec2
